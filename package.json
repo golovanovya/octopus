@@ -33,7 +33,7 @@
     "checker",
     "crawler"
   ],
-  "repository": "deptagency/octopus",
+  "repository": "golovanovya/octopus",
   "author": "Dept Design & Technology GmbH",
   "devDependencies": {
     "child-process-promise": "^2.2.1",
