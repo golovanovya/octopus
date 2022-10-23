@@ -41,7 +41,7 @@ Option | Description | Default
 `--slack-webhook` | Slack incoming webhook url | `none`
 `--timeout` | Time to wait for response | `5000`
 `--silent` | Run without printing progress line | `false`
-`--max-time` | Max execution time 0 inf |  `0`
+`--max-time` | Max execution time in seconds 0 inf |  `0`
 `--help` | Output help text |  
 
 
