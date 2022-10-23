@@ -1,6 +1,6 @@
 {
   "name": "@golovanovya/octopus",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "main": "index.js",
   "license": "MIT",
   "description": "Recursive and multi-threaded broken link checker",
